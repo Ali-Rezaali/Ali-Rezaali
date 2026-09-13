@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Images/Official Banner.jpg" alt="Ali Rezaali — Official Banner" width="100%" />
+<img src="Ali-Rezaali/Website/blob/main/public/Images/Official%20Banner.jpg" alt="Ali Rezaali — Official Banner" width="100%" />
 
 # Ali Rezaali
 
