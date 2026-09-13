@@ -1,4 +1,5 @@
 <div align="center">
+<img src="Images/Official%20Banner.jpg" alt="Ali Rezaali — Official Banner" width="100%" />
 
 # Ali Rezaali
 
