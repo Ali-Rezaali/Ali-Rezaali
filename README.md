@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Ali-Rezaali/Website/main/public/Images/Official%20Banner.jpg" alt="Ali Rezaali — Official Banner" width="100%" />
+<img src="[https://raw.githubusercontent.com/Ali-Rezaali/Website/main/public/Images/Official%20Banner.jpg](https://ali-rezaali.github.io/Images/Official%20Banner.jpg)" alt="Ali Rezaali — Official Banner" width="100%" />
 
 # Ali Rezaali
 
