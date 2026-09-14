@@ -1,11 +1,12 @@
 <div align="center">
 <img src="https://ali-rezaali.github.io/Images/Official%20Banner.jpg" alt="Ali Rezaali — Official Banner" width="100%" />
   
+
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9387--5661-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9387-5661)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=e4ge-98AAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ali-Rezaali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-rezaali/)
-[![Website](https://img.shields.io/badge/Website-ali--rezaali.github.io-black?logo=githubpages&logoColor=white)](https://ali-rezaali.github.io/)
+[![Website](https://img.shields.io/badge/Website-Ali--Rezaali.github.io-black?logo=githubpages&logoColor=white)](https://Ali-Rezaali.github.io/)
 
 **Geospatial Researcher · GeoAI · Remote Sensing & Earth Observation**
 
