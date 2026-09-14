@@ -6,6 +6,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ali-Rezaali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-rezaali/)
 [![Website](https://img.shields.io/badge/Website-ali--rezaali.github.io-black?logo=githubpages&logoColor=white)](https://ali-rezaali.github.io/)
+
 **Geospatial Researcher · GeoAI · Remote Sensing & Earth Observation**
 
 </div>
