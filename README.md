@@ -15,7 +15,7 @@
 
 ## About
 
-M.Sc. candidate in Geospatial Information Systems at K. N. Toosi University of Technology (Sep 2024 – Oct 2026), ranked 1st of 32. I work at the intersection of **remote sensing, GeoAI, and spatiotemporal modeling**, with a focus on explainable machine learning for environmental and urban hazard-risk assessment.
+M.Sc. student in Geospatial Information Systems at K. N. Toosi University of Technology (Sep 2024 – Present), ranked 1st of 32. I work at the intersection of **remote sensing, Earth observation, GeoAI, and spatiotemporal modeling**, with a focus on explainable machine learning for environmental and urban hazard-risk assessment.
 
 My current M.Sc. thesis develops a multi-pillar, explainable GeoAI framework for spatiotemporal surface urban heat island (SUHI) and urban heat risk (UHR) modeling — integrating multi-sensor Earth observation with exposure and vulnerability data within an IPCC hazard-exposure-vulnerability paradigm, designed for transferability and global scalability.
 
