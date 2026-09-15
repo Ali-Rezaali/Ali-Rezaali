@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ali-rezaali.github.io/assets/Images/Official%20Banner.jpg" alt="Ali Rezaali — Official Banner" width="100%" />
+<img src="https://ali-rezaali.github.io/Images/Official%20Banner.jpg" alt="Ali Rezaali — Official Banner" width="100%" />
 ---
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9387--5661-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9387-5661)
