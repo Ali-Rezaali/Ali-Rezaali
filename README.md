@@ -15,7 +15,7 @@
 
 ## About
 
-M.Sc. student in Geospatial Information Systems at K. N. Toosi University of Technology (Sep 2024 – Present), ranked 1st of 32. I work at the intersection of **remote sensing, Earth observation, GeoAI, and spatiotemporal modeling**, with a focus on explainable machine learning for environmental and urban hazard-risk assessment.
+M.Sc. student in Geospatial Information Systems at K. N. Toosi University of Technology (Sep 2024 – Present), ranked 1st of 32. I work at the intersection of **remote sensing, Earth observation, GeoAI, and spatiotemporal modeling**, with a focus on explainable machine learning for climate and urban hazard-risk assessment.
 
 My current M.Sc. thesis develops a multi-pillar, explainable GeoAI framework for spatiotemporal surface urban heat island (SUHI) and urban heat risk (UHR) modeling — integrating multi-sensor Earth observation with exposure and vulnerability data within an IPCC hazard-exposure-vulnerability paradigm, designed for transferability and global scalability.
 
@@ -45,6 +45,8 @@ Full, up-to-date list on [Google Scholar](https://scholar.google.com/citations?u
 |---|---|
 | [`Geospatial-Coursework`](https://github.com/Ali-Rezaali/Geospatial-Coursework) | LiDAR point cloud classification (K-Means, BIRCH, Random Forest, SVM), engineered geometric features, digital image processing — coursework and independent technical exercises |
 | [`WebGIS`](https://github.com/Ali-Rezaali/WebGIS) | Full-stack spatiotemporal dashboard on PostgreSQL/PostGIS with dynamic time filtering and hotspot visualization |
+| [`Google-Earth-Engine`](https://github.com/Ali-Rezaali/Google-Earth-Engine) | JavaScript utilities and workflows for the Earth Engine Code Editor — asset management, batch operations, and reproducible analysis patterns |
+| [`GEE-Automation`](https://github.com/Ali-Rezaali/GEE-Automation) | Python scripts for automating Earth Engine asset operations — recursive folder migration, batch deletion, and repository recovery tooling |
 | [`Console-Tools`](https://github.com/Ali-Rezaali/Console-Tools) | JavaScript utilities for geospatial workflows |
 
 ---
